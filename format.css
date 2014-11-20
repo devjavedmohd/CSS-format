@@ -1,0 +1,158 @@
+/*::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::: CSS fix for padding :::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::*/
+
+/*For Margin*/
+.no-mrg {
+	margin:0px;
+}
+.no-lft-mrg {
+	margin-left:0px;
+}
+.no-rht-mrg {
+	margin-right:0px;
+}
+.no-top-mrg {
+	margin-top: 0px;
+}
+.no-bot-mrg {
+	margin-bottom: 0px;
+}
+.mrg-five {
+	margin:5px;
+}
+.mrg-lft-five {
+	margin-left:5px;
+}
+.mrg-rht-five {
+	margin-right:5px;
+}
+.mrg-top-five {
+	margin-top:5px;
+}
+.mrg-bot-five {
+	margin-bottom:5px;
+}
+.mrg-ten {
+	margin:10px;
+}
+.mrg-lft-ten {
+	margin-left:10px;
+}
+.mrg-rht-ten {
+	margin-right:10px;
+}
+.mrg-top-ten {
+	margin-top:10px;
+}
+.mrg-bot-ten {
+	margin-bottom:10px;
+}
+.mrg-fifteen {
+	margin:15px;
+}
+.mrg-lft-fifteen {
+	margin-left:15px;
+}
+.mrg-rht-fifteen {
+	margin-right:15px;
+}
+.mrg-top-fifteen {
+	margin-top:15px;
+}
+.mrg-bot-fifteen {
+	margin-bottom:15px;
+}
+.mrg-twenty {
+	margin:20px;
+}
+.mrg-lft-twenty {
+	margin-left:20px;
+}
+.mrg-rht-twenty {
+	margin-right:20px;
+}
+.mrg-top-twenty {
+	margin-top:20px;
+}
+.mrg-bot-twenty {
+	margin-bottom:20px;
+}
+
+
+/*For padding*/
+.no-pad {
+	padding:0px;
+}
+.no-lft-pad {
+	padding-left:0px;
+}
+.no-rht-pad {
+	padding-right:0px;
+}
+.no-top-pad {
+	padding-top: 0px;
+}
+.no-bot-pad {
+	padding-bottom: 0px;
+}
+.pad-five {
+	padding:5px;
+}
+.pad-lft-five {
+	padding-left:5px;
+}
+.pad-rht-five {
+	padding-right:5px;
+}
+.pad-top-five {
+	padding-top:5px;
+}
+.pad-bot-five {
+	padding-bottom:5px;
+}
+.pad-ten {
+	padding:10px;
+}
+.pad-lft-ten {
+	padding-left:10px;
+}
+.pad-rht-ten {
+	padding-right:10px;
+}
+.pad-top-ten {
+	padding-top:10px;
+}
+.pad-bot-ten {
+	padding-bottom:10px;
+}
+.pad-fifteen {
+	padding:15px;
+}
+.pad-lft-fifteen {
+	padding-left:15px;
+}
+.pad-rht-fifteen {
+	padding-right:15px;
+}
+.pad-top-fifteen {
+	padding-top:15px;
+}
+.pad-bot-fifteen {
+	padding-bottom:15px;
+}
+.pad-twenty {
+	padding:20px;
+}
+.pad-lft-twenty {
+	padding-left:20px;
+}
+.pad-rht-twenty {
+	padding-right:20px;
+}
+.pad-top-twenty {
+	padding-top:20px;
+}
+.pad-bot-twenty {
+	padding-bottom:20px;
+}
